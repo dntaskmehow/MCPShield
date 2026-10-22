@@ -1,5 +1,4 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/dntaskmehow/mcpshield/main/assets/mcpshield-mark.svg" alt="MCPShield" width="120" />
   <h1>MCPShield</h1>
   <p><strong>Model Context Protocol Security Gateway &amp; Least-Privilege Policy Enforcer for AI Agents</strong></p>
 
