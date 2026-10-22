@@ -1,17 +1,29 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" role="img" aria-labelledby="title desc">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 220" role="img" aria-labelledby="title desc">
   <title id="title">MCPShield</title>
-  <desc id="desc">MCPShield enterprise security mark</desc>
-  <defs>
-    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#09111f"/>
-      <stop offset="100%" stop-color="#0f172a"/>
-    </linearGradient>
-    <linearGradient id="shield" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#7dd3fc"/>
-      <stop offset="100%" stop-color="#22d3ee"/>
-    </linearGradient>
-  </defs>
-  <rect width="256" height="256" rx="52" fill="url(#bg)"/>
-  <path d="M128 28 200 62v66c0 33-18 63-72 96-54-33-72-63-72-96V62l72-34Zm0 24-52 25v53c0 27 14 49 52 78 38-29 52-51 52-78V77l-52-25Zm-20 34h40v22h-14v44h-12V84h-14V52Zm-26 56h12v16h-12v-16Zm72 0h12v16h-12v-16Zm-46 26h28v12h-28v-12Z" fill="url(#shield)" fill-rule="evenodd"/>
-  <circle cx="128" cy="128" r="10" fill="#e2e8f0" opacity="0.9"/>
+  <desc id="desc">MCPShield logo using a classical legal-firm emblem with a serif wordmark.</desc>
+  <rect width="700" height="220" fill="#f2efe9"/>
+
+  <g transform="translate(26,18)">
+    <g transform="translate(0,8)">
+      <path d="M72 0 H104 L116 16 L128 0 H160 L144 26 L160 52 H128 L116 38 L104 52 H72 L88 26 Z" fill="#3a3a39"/>
+      <path d="M90 52 H142 V126 H90 Z" fill="#3a3a39"/>
+      <path d="M88 70 H144 V78 H88 Z" fill="#ffffff" opacity="0.18"/>
+      <path d="M110 0 V136" stroke="#3a3a39" stroke-width="8"/>
+      <path d="M88 18 H132" stroke="#3a3a39" stroke-width="8"/>
+      <path d="M78 52 H148" stroke="#3a3a39" stroke-width="8"/>
+      <path d="M76 100 H146" stroke="#3a3a39" stroke-width="8"/>
+      <path d="M70 116 H150" stroke="#3a3a39" stroke-width="8"/>
+      <path d="M74 136 H146" stroke="#3a3a39" stroke-width="8"/>
+      <path d="M58 138 H162 V154 H58 Z" fill="#3a3a39"/>
+      <path d="M78 154 H142 V194 H78 Z" fill="#3a3a39"/>
+      <path d="M68 196 H152" stroke="#3a3a39" stroke-width="8"/>
+    </g>
+
+    <g transform="translate(198,26)">
+      <text x="0" y="58" font-family="Georgia, 'Times New Roman', serif" font-size="54" font-weight="700" letter-spacing="2" fill="#2d2d2d">MCP</text>
+      <text x="138" y="58" font-family="Georgia, 'Times New Roman', serif" font-size="54" font-weight="700" fill="#2d2d2d">SHIELD</text>
+      <text x="8" y="96" font-family="Arial, Helvetica, sans-serif" font-size="23" font-weight="700" letter-spacing="3" fill="#2d2d2d">POLICY GATE</text>
+      <line x1="0" y1="122" x2="430" y2="122" stroke="#2d2d2d" stroke-width="2" opacity="0.8"/>
+    </g>
+  </g>
 </svg>
