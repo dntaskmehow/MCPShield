@@ -1,5 +1,3 @@
-# MCPShield
-
 <div align="center">
   <img src="https://raw.githubusercontent.com/dntaskmehow/mcpshield/main/assets/mcpshield-mark.svg" alt="MCPShield" width="120" />
   <h1>MCPShield</h1>
