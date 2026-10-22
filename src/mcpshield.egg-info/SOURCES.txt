@@ -1,0 +1,11 @@
+README.md
+pyproject.toml
+src/mcpshield/__init__.py
+src/mcpshield/cli.py
+src/mcpshield/gateway.py
+src/mcpshield.egg-info/PKG-INFO
+src/mcpshield.egg-info/SOURCES.txt
+src/mcpshield.egg-info/dependency_links.txt
+src/mcpshield.egg-info/entry_points.txt
+src/mcpshield.egg-info/requires.txt
+src/mcpshield.egg-info/top_level.txt
