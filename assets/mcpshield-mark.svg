@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" role="img" aria-labelledby="title desc">
+  <title id="title">MCPShield</title>
+  <desc id="desc">MCPShield enterprise security mark</desc>
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#09111f"/>
+      <stop offset="100%" stop-color="#0f172a"/>
+    </linearGradient>
+    <linearGradient id="shield" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#7dd3fc"/>
+      <stop offset="100%" stop-color="#22d3ee"/>
+    </linearGradient>
+  </defs>
+  <rect width="256" height="256" rx="52" fill="url(#bg)"/>
+  <path d="M128 28 200 62v66c0 33-18 63-72 96-54-33-72-63-72-96V62l72-34Zm0 24-52 25v53c0 27 14 49 52 78 38-29 52-51 52-78V77l-52-25Zm-20 34h40v22h-14v44h-12V84h-14V52Zm-26 56h12v16h-12v-16Zm72 0h12v16h-12v-16Zm-46 26h28v12h-28v-12Z" fill="url(#shield)" fill-rule="evenodd"/>
+  <circle cx="128" cy="128" r="10" fill="#e2e8f0" opacity="0.9"/>
+</svg>
